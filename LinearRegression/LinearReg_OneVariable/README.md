@@ -1,4 +1,4 @@
-# Simple Linear Regression - Predicting Home Prices
+# Simple Linear Regression (Linear Regression With One Variable) - Predicting Home Prices
 
 ## Overview
 This project implements a simple linear regression algorithm to predict home prices based on the area. It includes training a linear regression model using `homeprices.csv` and predicting house prices for areas provided in `areas.csv`. The results are saved in a `prediction.csv` file.
@@ -51,3 +51,11 @@ The Jupyter Notebook `SimpleLinearRegression.ipynb` contains the step-by-step im
 - Generating a CSV file with the predicted prices
 
 You can modify the notebook cells as needed or use the provided code as a starting point for your own projects.
+
+## License
+>You can check out the full license [here](https://github.com/Nawar095/Machine_Learning/blob/main/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
+
+---
+*This project is part of a learning journey in machine learning, focusing on building strong fundamentals through practice and continuous improvement.*
